@@ -17,5 +17,5 @@ def index():
     return {
         "email": "abdulraufmuhammad28@gmail.com",
         "current_datetime": datetime.utcnow().isoformat() + "Z",  # ISO 8601 in UTC
-        "github_url": "https://github.com/AbdulroufMuhammad/HNG-2.git"
+        "github_url": "https://github.com/AbdulroufMuhammad/HNG-2"
     }
